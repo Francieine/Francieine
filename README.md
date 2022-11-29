@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Francieine
-- 👀 I’m interested in html, css, js and sometimes Java, C#...
-- 🌱 I’m currently learning Web Development Responsive 
+- 👀 I’m interested in Java and sometimes html, css, js
+- 🌱 I’m currently learning coding java
 - 📫 How to reach me francieine.sabino@gmail.com
