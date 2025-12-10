@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Francieine
-- 👀 I’m interested in Java and html, css, js
-- 🌱 I’m currently learning coding java
-- 📫 How to reach me francieine.sabino@gmail.com
+- 👋 Oi, meu nome @Francieine!
+- 👀 Áreas de interesse: IAs, Pyhotn, Java, html, css.
+- 🌱 Atualmente estou utilizando IAs para resolução de problemas em TI
+- 📫 Este é meu email:francieine.sabino@gmail.com
