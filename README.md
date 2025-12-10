@@ -1,4 +1,4 @@
 - 👋 Oi, meu nome @Francieine!
-- 👀 Áreas de interesse: IAs, Pyhotn, Java, html, css.
+- 👀 Algumas areas que que tenho interesse: IAs, Pyhotn, Java, html, css.
 - 🌱 Atualmente estou utilizando IAs para resolução de problemas em TI
-- 📫 Este é meu email:francieine.sabino@gmail.com
+- 📫 Este é meu email: francieine.sabino@gmail.com
