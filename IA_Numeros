@@ -13,7 +13,7 @@
     {
       "cell_type": "code",
       "source": [
-        "#Praticando python para criação de IA (ML) - Passo a passo Copilot\n",
+        "#Praticando criação de IA (ML) - Passo a passo Copilot\n",
         "#1º Passo: instalar pacotes tensorflow (framework?)\n",
         "#2º Passo: Carregar DataSet\n",
         "#3º Passo: Pré-processar os dados\n",
